@@ -1,0 +1,4 @@
+baseURL = 'https://oia-politecnico.github.io/'
+languageCode = 'en-us'
+title = 'Club ProgComp IPS'
+theme = 'dark-theme-editor'
